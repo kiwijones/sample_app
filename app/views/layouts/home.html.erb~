@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> <%= @title %> </title>
+  <title>Ruby on Rails sample app</title>
 </head>
 <body>
 
-<h1>Sample App </h1>
+<%= yield %>
 
 </body>
 </html>
