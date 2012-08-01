@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+
+
+<h1>Sample App  Help</h1>
+
+<p>Help info </p>
+
+
+<%= link_to 'Sign up now! ", '#', :class => "signup_button round" %>
+
+<a href='#' class="signup_button round">Sign up now!</a>

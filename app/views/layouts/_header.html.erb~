@@ -1,0 +1,8 @@
+<%= image_tag("logo.png", :alt => "sample Logo", :class => "round") %>
+<nav class="round">
+   <ul>	
+     <li><%= link_to "Home", home_path %></li>
+     <li><%= link_to "Help", help_path %></li>
+     <li><a href="/pages/home">Sign in</a></li>
+   </ul>
+   </nav>
