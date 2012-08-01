@@ -1,11 +1,5 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <%= @title %>
-</head>
-<body>
 
-<h1>Sample App </h1>
+<h1>Sample App home</h1>
 
-</body>
-</html>
+<a href="#" class="signup_button round">Sign up now!</a>
